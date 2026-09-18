@@ -16,7 +16,9 @@ I build data analytics projects that turn raw data into actionable business insi
 
 ## 📊 Featured Projects
 
-Coming soon.
+- [Credit Risk Loan Portfolio Analysis](https://github.com/Akash-672/credit-risk-loan-portfolio-analysis)
+- [E-Commerce Return Analysis](https://github.com/Akash-672/ecommerce-return-analysis)
+- [Hospital Operations & Patient Cost Analysis](https://github.com/Akash-672/hospital-operations-patient-cost-analysis)
 
 ## 🎯 Currently
 
