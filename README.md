@@ -1,6 +1,6 @@
 # Hi, I'm Akash 👋
 
-### Data Analyst | SQL • Power BI • Excel • Python
+### Data Analyst | SQL • Power BI • Excel • Python |
 
 I analyze business data using SQL, Power BI, Excel, and Python to uncover patterns, answer business questions, and support data-driven decisions.
 
