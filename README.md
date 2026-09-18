@@ -2,7 +2,7 @@
 
 ### Data Analyst | SQL • Power BI • Excel • Python
 
-I build data analytics projects that turn raw data into actionable business insights.
+I analyze business data using SQL, Power BI, Excel, and Python to uncover patterns, answer business questions, and support data-driven decisions.
 
 ## 🛠️ Tools & Skills
 
@@ -20,10 +20,14 @@ I build data analytics projects that turn raw data into actionable business insi
 - [E-Commerce Return Analysis](https://github.com/Akash-672/ecommerce-return-analysis)
 - [Hospital Operations & Patient Cost Analysis](https://github.com/Akash-672/hospital-operations-patient-cost-analysis)
 
-## 🎯 Currently
+## 🎯 What I Bring
 
-Open to Data Analyst opportunities and building projects focused on business and financial analytics.
+- Business-focused data analysis that translates data into clear, actionable insights
+- Hands-on experience with SQL, Power BI, Excel, and Python
+- End-to-end analysis covering data cleaning, exploration, visualization, and insights
+- A focus on solving business problems with data, not just building dashboards
 
+**Open to Data Analyst opportunities.**
 ## 🔗 Connect
 
 [LinkedIn](https://www.linkedin.com/in/akash-data/)
