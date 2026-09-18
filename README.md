@@ -22,7 +22,7 @@ I build data analytics projects that turn raw data into actionable business insi
 
 ## 🎯 Currently
 
-Building data analytics projects and preparing for Data Analyst opportunities.
+Open to Data Analyst opportunities and building projects focused on business and financial analytics.
 
 ## 🔗 Connect
 
