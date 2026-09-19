@@ -6,13 +6,11 @@ I analyze business data using SQL, Power BI, Excel, and Python to uncover patter
 
 ## 🛠️ Tools & Skills
 
-- SQL
-- Power BI
-- Excel
-- Python
-- Pandas
-- NumPy
-- Matplotlib
+| Category | Tools |
+|---|---|
+| **Languages** | SQL, Python |
+| **BI & Reporting** | Power BI, Excel |
+| **Python Libraries** | Pandas, NumPy, Matplotlib |
 
 ## 📊 Featured Projects
 
