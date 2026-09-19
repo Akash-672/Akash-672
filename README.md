@@ -31,3 +31,4 @@ I analyze business data using SQL, Power BI, Excel, and Python to uncover patter
 ## 🔗 Connect
 
 [LinkedIn](https://www.linkedin.com/in/akash-data/)
+[Email]("akashraju672@gmail.com")
