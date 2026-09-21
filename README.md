@@ -2,30 +2,30 @@
 
 ### Data Analyst | SQL • Power BI • Excel • Python |
 
-I analyze business data using SQL, Power BI, Excel, and Python to uncover patterns, answer business questions, and support data-driven decisions.
-
-## 🛠️ Tools & Skills
-
-| Category | Tools |
-|---|---|
-| **Languages** | SQL, Python |
-| **BI & Reporting** | Power BI, Excel |
-| **Python Libraries** | Pandas, NumPy, Matplotlib |
+I work with SQL, Power BI, Excel, and Python to clean and transform data, perform analysis, build visualizations, and derive actionable insights.
 
 ## 📊 Featured Projects
 
 - [Credit Risk Loan Portfolio Analysis](https://github.com/Akash-672/credit-risk-loan-portfolio-analysis)
+  - Analyzed 255K+ loan records to identify factors associated with loan defaults.
+  - **Tools:** Python, Pandas, Power BI
+
 - [E-Commerce Return Analysis](https://github.com/Akash-672/ecommerce-return-analysis)
+  - Analyzed e-commerce returns to identify key drivers of returns and their financial impact.
+  - **Tools:** SQL, Power BI
+
 - [Hospital Operations & Patient Cost Analysis](https://github.com/Akash-672/hospital-operations-patient-cost-analysis)
+  - Analyzed patient encounters, costs, and operational metrics to identify key business insights.
+  - **Tools:** SQL, Power BI
 
-## 🎯 What I Bring
+## 🛠️ Technical Skills
 
-- Business-focused data analysis that translates data into clear, actionable insights
-- Hands-on experience with SQL, Power BI, Excel, and Python
-- End-to-end analysis covering data cleaning, exploration, visualization, and insights
-- A focus on solving business problems with data, not just building dashboards
+| Category | Tools |
+|---|---|
+| Data Analysis | SQL, Python |
+| BI & Visualization | Power BI, Excel |
+| Python Libraries | Pandas, NumPy, Matplotlib |
 
-**Open to Data Analyst opportunities.**
 ## 🔗 Connect
 
 [LinkedIn](https://www.linkedin.com/in/akash-data/)
