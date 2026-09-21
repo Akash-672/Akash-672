@@ -11,7 +11,7 @@ I work with SQL, Power BI, Excel, and Python to clean and transform data, perfor
   - **Tools:** Python, Pandas, Power BI
 
 - [E-Commerce Return Analysis](https://github.com/Akash-672/ecommerce-return-analysis)
-  - Analyzed e-commerce returns to identify key drivers of returns and their financial impact.
+  - Analyzed e-commerce returns to identify key drivers of returns and assess their financial impact..
   - **Tools:** SQL, Power BI
 
 - [Hospital Operations & Patient Cost Analysis](https://github.com/Akash-672/hospital-operations-patient-cost-analysis)
